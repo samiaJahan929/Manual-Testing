@@ -42,7 +42,7 @@ This repository includes the manual testing project's deliverables, such as test
    - Only see transaction history of received payment.
 
 # File Description
-<h3>1. Question 1, 4, 5</h3>
+<h2>1. Question 1, 4, 5</h2>
 
 - <h3>Content :</h3>
 
