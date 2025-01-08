@@ -40,3 +40,5 @@ This repository includes the manual testing project's deliverables, such as test
    - withdraw and payment.
 6. Merchant can
    - Only see transaction history of received payment.
+
+
