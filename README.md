@@ -21,4 +21,9 @@ This repository includes the manual testing project's deliverables, such as test
 
 # Testing Environment Details
 - URL : [EasyPayLogin](https://master.d1zgfbpp372908.amplifyapp.com/login)
-
+- Admin Login
+   - Email : `admin@roadtocareer.net`
+   - Password : `1234`
+- System User Login
+   - Email : `system@roadtocareer.net`
+   - Password : `1234`
