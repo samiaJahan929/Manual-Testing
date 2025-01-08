@@ -1,14 +1,14 @@
 # Manual-Testing
 
 # Content
-- [Introduction]()
-- [Test Case Scenario]()
-- [Test Environment Details]()
-- [General activities can perform]()
-- [File Description]()
-   - [Question 1,4,5]()
-   - [Question 2]()
-   - [Question 5]()
+- [Introduction](https://github.com/samiaJahan929/Manual-Testing/blob/main/README.md#introduction)
+- [Test Case Scenario](https://github.com/samiaJahan929/Manual-Testing/blob/main/README.md#test-case-scenario)
+- [Test Environment Details](https://github.com/samiaJahan929/Manual-Testing/blob/main/README.md#testing-environment-details)
+- [General activities can perform](https://github.com/samiaJahan929/Manual-Testing/blob/main/README.md#general-activities-can-perform)
+- [File Description](https://github.com/samiaJahan929/Manual-Testing/blob/main/README.md#file-description)
+   - [Question 1,4,5](https://github.com/samiaJahan929/Manual-Testing/blob/main/README.md#1-question-1-4-5)
+   - [Question 2](https://github.com/samiaJahan929/Manual-Testing/blob/main/README.md#2-question-2)
+   - [Question 5](https://github.com/samiaJahan929/Manual-Testing/blob/main/README.md#3-question-2)
 
 # Introduction 
 This repository includes the manual testing project's deliverables, such as test cases, problem reports, answers to different testing queries, and supporting materials like images and videos. A full analysis of each file and its contents is provided below.
@@ -62,7 +62,7 @@ This repository includes the manual testing project's deliverables, such as test
    - Question Answer 4: Priority sequence for identified tasks.
    - Question Answer 5: Checklist for validating Features 1 and 2.
      
-For Better Understand [View the link](https://docs.google.com/document/d/1aFA0F8cF7iI10bR7s7VqFDnKV7pGKF9O/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
+- For Better Understand [View the link](https://docs.google.com/document/d/1aFA0F8cF7iI10bR7s7VqFDnKV7pGKF9O/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
 
 <h2>2. Question 2</h2>
 
@@ -80,7 +80,7 @@ For Better Understand [View the link](https://docs.google.com/document/d/1aFA0F8
      - Actual result
      - Status (Pass/Fail)
 
- For Better Understand [View the Link](https://docs.google.com/spreadsheets/d/1TrgE-LgDYqXd-Ik1GPABb0LDWB01uuaD/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
+ - For Better Understand [View the Link](https://docs.google.com/spreadsheets/d/1TrgE-LgDYqXd-Ik1GPABb0LDWB01uuaD/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
 
  
 <h2>3. Question 2</h2>
@@ -96,7 +96,7 @@ For Better Understand [View the link](https://docs.google.com/document/d/1aFA0F8
        - Severity and priority
        - Screenshots or videos as evidence for each bug
     
-[Bug Report in Excel Sheet](https://docs.google.com/spreadsheets/d/1kjwBN5UHOb61qYtFQWoKEXXmPvOoU9gx/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
+- [Bug Report in Excel Sheet](https://docs.google.com/spreadsheets/d/1kjwBN5UHOb61qYtFQWoKEXXmPvOoU9gx/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
  
 
 
