@@ -20,4 +20,5 @@ This repository includes the manual testing project's deliverables, such as test
    - Customers who repay at least 50% of the remaining loan balance are eligible to apply for another loan.
 
 # Testing Environment Details
+- URL : [EasyPayLogin](https://master.d1zgfbpp372908.amplifyapp.com/login)
 
