@@ -55,8 +55,16 @@ For Better Understand [View the link](https://docs.google.com/document/d/1aFA0F8
 - Content :
 
   - Test cases (Positive and Negative) for Feature 1 and Feature 2.
-  - Detailed scenarios for validating the features under different conditions.
-https://docs.google.com/spreadsheets/d/1TrgE-LgDYqXd-Ik1GPABb0LDWB01uuaD/edit?gid=2124857978#gid=2124857978
+  - Detailed scenarios for validating the features under different conditions, including:
+     - Test case IDs
+     - Modules/Test Scenario
+     - Test descriptions
+     - Steps to execute
+     - Expected results
+     - Actual results
+     - Status (Pass/Fail)
+
+ For Better Understand [View the Link](https://docs.google.com/spreadsheets/d/1TrgE-LgDYqXd-Ik1GPABb0LDWB01uuaD/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
 
 
 
