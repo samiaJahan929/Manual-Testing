@@ -48,6 +48,7 @@ This repository includes the manual testing project's deliverables, such as test
    - Question Answer 1: Features 1 and 2 acceptance criteria.
    - Question Answer 4: Priority sequence for identified tasks.
    - Question Answer 5: Checklist for validating Features 1 and 2.
+     
 For Better Understand [View the link](https://docs.google.com/document/d/1aFA0F8cF7iI10bR7s7VqFDnKV7pGKF9O/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
 
 <h3>2. Question 2</h3>
