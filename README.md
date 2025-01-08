@@ -52,21 +52,39 @@ This repository includes the manual testing project's deliverables, such as test
      
 For Better Understand [View the link](https://docs.google.com/document/d/1aFA0F8cF7iI10bR7s7VqFDnKV7pGKF9O/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
 
-<h3>2. Question 2</h3>
+<h2>2. Question 2</h2>
 
-- Content :
+- <h3>Content :</h3>
 
   - Test cases (Positive and Negative) for Feature 1 and Feature 2.
   - Detailed scenarios for validating the features under different conditions, including:
      - Test case IDs
      - Modules/Test Scenario
-     - Test descriptions
+     - Test Case Title
+     - Perequisties
      - Steps to execute
-     - Expected results
-     - Actual results
+     - Test Data
+     - Expected result
+     - Actual result
      - Status (Pass/Fail)
 
  For Better Understand [View the Link](https://docs.google.com/spreadsheets/d/1TrgE-LgDYqXd-Ik1GPABb0LDWB01uuaD/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
+
+ 
+<h2>3. Question 2</h2>
+
+- <h3>Content :</h3>
+
+   - Bug reporting sheet containing at least 10 identified bugs/improvements.
+   - Includes : 
+       - Bug ID
+       - Steps to reproduce
+       - Expected vs. actual results
+       - Severity and priority
+       - Screenshots or videos as evidence for each bug
+    
+[Bug Report in Excel Sheet](https://docs.google.com/spreadsheets/d/1kjwBN5UHOb61qYtFQWoKEXXmPvOoU9gx/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
+ 
 
 
 
