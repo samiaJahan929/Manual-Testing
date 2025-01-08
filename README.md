@@ -44,7 +44,7 @@ This repository includes the manual testing project's deliverables, such as test
 # File Description
 <h3>1. Question 1, 4, 5</h3>
 
-<h3>- Content :</h3>
+- <h3>Content :</h3>
 
    - Question Answer 1: Features 1 and 2 acceptance criteria.
    - Question Answer 4: Priority sequence for identified tasks.
