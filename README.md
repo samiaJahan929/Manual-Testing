@@ -43,7 +43,8 @@ This repository includes the manual testing project's deliverables, such as test
 
 # File Description
 <h3>1. Question 1, 4, 5</h3>
-<h3>- Content :
+
+<h3>- Content :</h3>
 
    - Question Answer 1: Features 1 and 2 acceptance criteria.
    - Question Answer 4: Priority sequence for identified tasks.
@@ -52,6 +53,7 @@ This repository includes the manual testing project's deliverables, such as test
 For Better Understand [View the link](https://docs.google.com/document/d/1aFA0F8cF7iI10bR7s7VqFDnKV7pGKF9O/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
 
 <h3>2. Question 2</h3>
+
 - Content :
 
   - Test cases (Positive and Negative) for Feature 1 and Feature 2.
