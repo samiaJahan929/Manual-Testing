@@ -42,6 +42,20 @@ This repository includes the manual testing project's deliverables, such as test
    - Only see transaction history of received payment.
 
 # File Description
-`<h2>1. Question Answer 1, 2, 5</h2>`
+<h3>1. Question 1, 4, 5</h3>
+- Content :
+
+   - Question Answer 1: Features 1 and 2 acceptance criteria.
+   - Question Answer 4: Priority sequence for identified tasks.
+   - Question Answer 5: Checklist for validating Features 1 and 2.
+For Better Understand [View the link](https://docs.google.com/document/d/1aFA0F8cF7iI10bR7s7VqFDnKV7pGKF9O/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
+
+<h3>2. Question 2</h3>
+- Content :
+
+  - Test cases (Positive and Negative) for Feature 1 and Feature 2.
+  - Detailed scenarios for validating the features under different conditions.
+https://docs.google.com/spreadsheets/d/1TrgE-LgDYqXd-Ik1GPABb0LDWB01uuaD/edit?gid=2124857978#gid=2124857978
+
 
 
