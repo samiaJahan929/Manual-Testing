@@ -1,3 +1,6 @@
+# Content
+
+
 # Manual-Testing
 This repository includes the manual testing project's deliverables, such as test cases, problem reports, answers to different testing queries, and supporting materials like images and videos. A full analysis of each file and its contents is provided below.
 
@@ -78,6 +81,7 @@ For Better Understand [View the link](https://docs.google.com/document/d/1aFA0F8
    - Bug reporting sheet containing at least 10 identified bugs/improvements.
    - Includes : 
        - Bug ID
+       - Module
        - Steps to reproduce
        - Expected vs. actual results
        - Severity and priority
