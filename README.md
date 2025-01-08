@@ -18,3 +18,6 @@ This repository includes the manual testing project's deliverables, such as test
    - No interest if the loan is repaid within 30 days.
    - A daily compound interest of 1.8% is applied for overdue amounts.
    - Customers who repay at least 50% of the remaining loan balance are eligible to apply for another loan.
+
+# Testing Environment Details
+
