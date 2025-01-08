@@ -27,3 +27,16 @@ This repository includes the manual testing project's deliverables, such as test
 - System User Login
    - Email : `system@roadtocareer.net`
    - Password : `1234`
+
+# General activities can perform:
+1. Login using the following user creds as admin
+2. Admin can
+   - Create Customer, Agent, another admin or merchant.
+3. System user can
+   - Deposit to agent.
+4. Agent can
+   - Deposit or payment to a merchant.
+5. Customer can
+   - withdraw and payment.
+6. Merchant can
+   - Only see transaction history of received payment.
